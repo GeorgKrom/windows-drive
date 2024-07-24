@@ -1,0 +1,43 @@
+{
+  "name": "windows-drive",
+  "version": "1.0.0",
+  "description": "Library for managing network drive connections, drive letters and information",
+  "author": "Georg Krom",
+  "license": "MIT",
+  "homepage": "https://github.com/GeorgKrom/windows-drive#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GeorgKrom/windows-drive"
+  },
+  "scripts": {
+    "compile": "tsc",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3.1.0",
+    "@stylistic/eslint-plugin": "^2.3.0",
+    "@stylistic/eslint-plugin-ts": "^2.3.0",
+    "@types/jest": "^29.5.12",
+    "@types/node": "^20.14.11",
+    "@typescript-eslint/eslint-plugin": "^7.17.0",
+    "@typescript-eslint/parser": "^7.17.0",
+    "eslint": "^8.57.0",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.2.3",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.5.4"
+  },
+  "keywords": [
+    "microsoft",
+    "windows",
+    "drive",
+    "network",
+    "filesystem",
+    "mount",
+    "letter",
+    "disk",
+    "size"
+  ],
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts"
+}
