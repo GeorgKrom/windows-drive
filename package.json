@@ -1,6 +1,6 @@
 {
   "name": "windows-drive",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Library for managing network drive connections, drive letters and information",
   "author": "Georg Krom",
   "license": "MIT",
